@@ -1,0 +1,1 @@
+![[log.png]]![[noting emergence 2.png]]
