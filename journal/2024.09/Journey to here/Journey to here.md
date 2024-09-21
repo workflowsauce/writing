@@ -82,10 +82,10 @@ As my existential crises deepened, I imagined that finding the "right" ways to p
 
 I tried. I even drew a diagram to help illustrate what I thought was the problem:
 
-![[images/Frame 1 (1).png]]
+![Goals and Habits](images/goals_and_habits.png)  
 *This is me. The ultimate goal is an emergent phenomenon. The "visible goal" is the one we can name, that feels in alignment with the ultimate goal. We have positive impulses and "bad" habits, and where we end up moving is a sum of all of these.*
 
-![[images/Frame 2.png]]
+![Goals and Habits Summed](images/goals_and_habits_summed.png)  
 *Depending on how many old habits you have, you may find that you go in circles. If you can remove them, though, you should be able to actually cover new ground.*
 
 Fun stuff. I think there's still some truth to it, but it's a tool to make the mind feel like its calling the shots. How many moves do you have to make to "remove" a bad habit? How do you decide what a "visible goal" is? There's so much to do here! My current thinking is so much simpler.
@@ -96,15 +96,15 @@ Sure, experience, growth, and creativity are the pinnacle experiences of life. B
 
 I decided to throw out the playbook and just [focus on building that foundation](https://x.com/workflowsauce/status/1833685658285821953).
 
-![[images/Pasted image 20240921104016.png]]
+![Life bubble inverted](images/life_bubble_inverted.png)  
 *How I'd been approaching my life up until now. I would cram in the big fun stuff that I wanted to do, and I would let the other things sort of fit in where they could. They would frequently fall out.*
 
-![[images/Pasted image 20240921104026.png]]
+![Life bubble fixed](images/life_bubble_fixed.png)  
 *How I am trying to structure it now. I want to put in the "core four," and let them take all the space they need. The "big three" will get to fill in the gaps. Less time, but way more focused. Surgical. Precise. Secure.*
 
 I wrote a single page to guide my focus for the rest of the year. "It doesn't matter how long it takes," I though, "I'll continue working on this until I get it down." It had an immediate effect on my mindset and behavior. Having just one thing to focus on has made it so easier to dismiss other thoughts and impulses. I haven't gotten it "perfect," but that doesn't matter. I'm rewiring circuits. I'm rebuilding reward pathways. It's working. I feel more bored, less stressed and anxious, and, most importantly, happier in the *here and now*, which is my new favorite place to be.
 
-![[images/Pasted image 20240921103919.png]]
+![One page foundation](images/one_page_foundation.png)
 *My one-pager on getting my foundational behaviors set up properly. The "core four": Sleep, Diet, Exercise, and Work.*
 
 We'll see where all of this goes from here.
