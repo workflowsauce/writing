@@ -104,7 +104,7 @@ I decided to throw out the playbook and just [focus on building that foundation]
 
 I wrote a single page to guide my focus for the rest of the year. "It doesn't matter how long it takes," I though, "I'll continue working on this until I get it down." It had an immediate effect on my mindset and behavior. Having just one thing to focus on has made it so easier to dismiss other thoughts and impulses. I haven't gotten it "perfect," but that doesn't matter. I'm rewiring circuits. I'm rebuilding reward pathways. It's working. I feel more bored, less stressed and anxious, and, most importantly, happier in the *here and now*, which is my new favorite place to be.
 
-![One page foundation](images/one_page_foundation.png)
+![One page foundation](images/one_page_foundation.png)  
 *My one-pager on getting my foundational behaviors set up properly. The "core four": Sleep, Diet, Exercise, and Work.*
 
 We'll see where all of this goes from here.
