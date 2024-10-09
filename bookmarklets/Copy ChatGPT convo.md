@@ -1,6 +1,6 @@
 To use, create a new bookmark in your browser's bookmark bar, edit the bookmark and paste all the code into the URL input:
 
-![[Pasted image 20241009114149.png]]
+![[bookmarklets.png]]
 
 [More info](https://bookmarklets.org/what-is-a-bookmarklet/)
 
