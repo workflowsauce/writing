@@ -1,4 +1,4 @@
-![[../assets/ego_retirement.png]]
+![Tweet by WorkflowSauce](../assets/ego_retirement.png)
 
 I feel like the ego cannot fit through the gateless gate, and it can't even push 𝘵𝘩𝘢𝘵 𝘸𝘩𝘪𝘤𝘩 𝘥𝘰𝘦𝘴 𝘧𝘪𝘵 through.
 
