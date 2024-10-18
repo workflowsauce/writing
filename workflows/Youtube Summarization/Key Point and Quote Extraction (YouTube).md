@@ -1,3 +1,8 @@
+## Key benefits
+* Consume longer YouTube videos in a more accessible way (or concretize your takeaways after watching them)
+* Create a sharable list of key points *with* timestamps as entry points
+* Can also discuss the transcript with the LLM, and generate more specific, detailed takeaways
+
 ## Here's the output
 
 ![Example summarization output](../../assets/youtube_summary_output.png)
@@ -19,7 +24,7 @@
 2. Click and drag to select the whole transcript, and copy with Ctrl+C or Cmd+C
    ![YouTube transcript at the right-hand side](../../assets/youtube_summary_transcript.png)
 
-   3. Paste into your favorite LLM with a prompt like:
+3. Paste into your favorite LLM with a prompt like:
 
 ```
 Can you summarize the key points from this video in a really concise list?
