@@ -1,6 +1,6 @@
 ## Here's the output
 
-![[youtube_summary_output.png]]
+![[../../../assets/youtube_summary_output.png]]
 
 - **Dealing with judgment via Self-reflection**: Stop judging others to become less susceptible to judgment yourself. "When you stop judging everybody you become capable of dealing with judgment" [38:29](https://youtu.be/k8QVb63mlvA?t=2309)
 - **Entitlement mindset via Gratitude perspective**: Recognize your privileges and be grateful for what you have. "There are 800 million people on Earth that do not have access to clean water" [22:53](https://youtu.be/k8QVb63mlvA?t=1373)
@@ -13,11 +13,11 @@
 ## Here's the workflow
 
 1. Open transcript on [a YouTube video](https://www.youtube.com/watch?v=k8QVb63mlvA) (Click **Show Transcript** at bottom of description)
-   ![[youtube_summary_transcript_button.png]]
+   ![[../../../assets/youtube_summary_transcript_button.png]]
 
 
 2. Click and drag to select the whole transcript, and copy with Ctrl+C or Cmd+C
-   ![[youtube_summary_transcript.png]]
+   ![[../../../assets/youtube_summary_transcript.png]]
 
    3. Paste into your favorite LLM with a prompt like:
 
@@ -42,11 +42,11 @@ The link should be with the minute+second timestamp, like so:
 (That's just an example; I don't think that timestamp is correct for that quote.)
 ```
 
-![[youtube_summary_paste_into_llm.png]]
+![[../../../assets/youtube_summary_paste_into_llm.png]]
 
 ### And you're done.
 
 Feel free to chat with the LLM to refine the output.
 
-![[youtube_summary_refinement.png]]
+![[../../../assets/youtube_summary_refinement.png]]
 
