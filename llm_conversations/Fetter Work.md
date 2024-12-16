@@ -24,7 +24,7 @@ Okay, I have one right now, which is I sat down to write a doc for work. And it'
 > 
 > Take a moment to describe what thoughts, stories, and emotions arise when you encounter this resistance while writing the doc.
 > 
-> **Prompt:**What specific thoughts pop up? (e.g., "I need to get this right" or "They won't understand unless I explain perfectly.")
+> **Prompt:** What specific thoughts pop up? (e.g., "I need to get this right" or "They won't understand unless I explain perfectly.")
 > 
 > What emotions do these thoughts trigger? (e.g., frustration, anxiety, urgency)
 > 
@@ -40,7 +40,7 @@ As I waited for you to generate that response, I could feel myself getting excit
 > 
 > Let’s strip this down to what’s literally happening:
 > 
-> **Prompt:**What are you *actually* seeing, hearing, or experiencing in this moment related to the doc?
+> **Prompt:** What are you *actually* seeing, hearing, or experiencing in this moment related to the doc?
 > 
 > For example:
 > 
@@ -62,7 +62,7 @@ You fucking tripped me out. What am I actually seeing, hearing, or experiencing?
 > 
 > Let’s push deeper. The pull in your chest, the spiking in your throat — these signals often arise when something *wanted* isn’t happening.
 > 
-> **Prompt:**What, exactly, is *not* happening right now that your system seems to crave?
+> **Prompt:** What, exactly, is *not* happening right now that your system seems to crave?
 > 
 > Is it:
 > 
@@ -88,7 +88,7 @@ The really irony here is I just want to feel okay. The fucking weird irony is wh
 > 
 > Right now, take a deep breath and gently return to *just* the sensory experience. The tension in your chest, the pull in your throat — let them exist without needing to transform or explain them.
 > 
-> **Prompt:**Whisper inwardly: *“I just want to feel okay.”*
+> **Prompt:** Whisper inwardly: *“I just want to feel okay.”*
 > 
 > Notice what happens. Does the tension shift? Tighten? Relax? Feel unchanged?
 > 
@@ -106,7 +106,7 @@ Wow, that actually, that's interesting. So whispering, I just want to feel okay.
 > 
 > Let’s gently explore what remains.
 > 
-> **Prompt:**Right now, sitting in this quieter space:
+> **Prompt:** Right now, sitting in this quieter space:
 > 
 > - What feels real or necessary in this moment?
 > 
