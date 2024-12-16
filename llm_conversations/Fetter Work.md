@@ -10,9 +10,7 @@ Can you walk me through this, interactively? Ask me questions and prompt me to d
 > 
 > Take a moment to reflect. Choose something that reliably triggers reactivity—perhaps something unresolved or emotionally charged.
 > 
-> **Prompt:**
-> 
-> Describe this situation briefly. What about it feels most significant or intense for you?
+> **Prompt:** Describe this situation briefly. What about it feels most significant or intense for you?
 > 
 > Once you’ve shared, we’ll proceed to exploring your reactions and the deeper triggers involved.
 
